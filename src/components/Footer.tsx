@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h3 className="mb-3 flex items-center gap-2 text-lg font-bold text-white">
-              <img src="/logo.svg" alt="Logo" className="h-8 w-auto" />
+              <img src="/logo.png" alt="Logo" className="h-8 w-auto" />
               American Flags Foundation
             </h3>
             <p className="text-sm leading-relaxed">
