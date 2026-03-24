@@ -31,7 +31,9 @@ export default function ContactPage() {
                 <h3 className="mb-2 font-bold text-navy-700">📍 Address</h3>
                 <address className="text-sm not-italic text-gray-600">
                   <p>American Flags Foundation</p>
-                  <p>Pflugerville, Texas</p>
+                  <p>3801 N Capital of Texas Hwy</p>
+              <p>Ste E240-3901</p>
+              <p>Austin, TX 78746</p>
                 </address>
               </div>
               <div className="card">

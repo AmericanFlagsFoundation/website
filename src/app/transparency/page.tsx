@@ -31,7 +31,7 @@ export default function TransparencyPage() {
                 ["EIN", "93-3268747"],
                 ["Tax Status", "501(c)(3) Public Charity"],
                 ["Date Founded", "September 2023"],
-                ["Registered Address", "Pflugerville, Texas"],
+                ["Registered Address", "3801 N Capital of Texas Hwy, Ste E240-3901, Austin, TX 78746"],
                 ["Contact", "Jamie Lewis, Executive Director"],
               ].map(([label, value]) => (
                 <div key={label}>
@@ -115,7 +115,7 @@ export default function TransparencyPage() {
           </p>
           <p className="text-sm text-gray-500">
             Write to us at: American Flags Foundation,
-            Pflugerville, Texas
+            Austin, Texas
           </p>
         </div>
       </section>

@@ -49,7 +49,9 @@ export default function Footer() {
           <div>
             <h4 className="mb-3 font-semibold text-white">Contact</h4>
             <address className="space-y-2 text-sm not-italic">
-              <p>Pflugerville, Texas</p>
+              <p>3801 N Capital of Texas Hwy</p>
+              <p>Ste E240-3901</p>
+              <p>Austin, TX 78746</p>
               <p className="mt-4">
                 <span className="font-medium text-white">Crisis Hotline:</span>{" "}
                 <a href="tel:988" className="hover:text-white">

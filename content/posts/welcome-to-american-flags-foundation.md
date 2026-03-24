@@ -12,7 +12,7 @@ That changes now.
 
 The American Flags Foundation was founded on six pillars: Shattering Silence, Embracing Empathy, Building Hope, Breaking Barriers, Fostering Resilience, and Cultivating Optimism. These aren't just words — they are commitments that guide every program we build, every partnership we form, and every life we touch.
 
-From our home in Pflugerville, Texas, we are building a movement. A movement that says it's okay to not be okay. A movement that connects people with the resources, support, and community they need to heal and thrive.
+From our home in Austin, Texas, we are building a movement. A movement that says it's okay to not be okay. A movement that connects people with the resources, support, and community they need to heal and thrive.
 
 Whether you're looking for help, want to volunteer, or simply want to learn more, we welcome you. Together, we can shatter the silence and build a healthier, more compassionate America.
 

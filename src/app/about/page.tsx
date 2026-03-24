@@ -34,7 +34,7 @@ export default function AboutPage() {
           </p>
 
           <p className="mt-4 text-gray-600 leading-relaxed">
-            From our base in Pflugerville, Texas, we set out to build a
+            From our base in Austin, Texas, we set out to build a
             foundation — literally and figuratively — that would embrace empathy,
             cultivate optimism, and break down the barriers that keep people from
             getting the help they need.
@@ -78,7 +78,7 @@ export default function AboutPage() {
               </div>
               <div>
                 <dt className="font-semibold text-navy-700">Headquarters</dt>
-                <dd className="text-gray-600">Pflugerville, Texas</dd>
+                <dd className="text-gray-600">Austin, Texas</dd>
               </div>
               <div>
                 <dt className="font-semibold text-navy-700">Contact</dt>
