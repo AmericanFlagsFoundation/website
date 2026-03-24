@@ -114,8 +114,8 @@ export default function TransparencyPage() {
             reach out.
           </p>
           <p className="text-sm text-gray-500">
-            Write to us at: American Flags Foundation,
-            Austin, Texas
+            Write to us at: American Flags Foundation, 3801 N Capital of Texas Hwy,
+            Ste E240-3901, Austin, TX 78746 | Email: info@aff1.org
           </p>
         </div>
       </section>
