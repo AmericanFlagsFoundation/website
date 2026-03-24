@@ -19,7 +19,16 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/95 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center gap-2">
-          <span className="text-2xl">🇺🇸</span>
+          <svg className="h-8 w-8 flex-shrink-0" viewBox="0 0 60 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="60" height="40" rx="4" fill="#B22234"/>
+            <rect y="3.08" width="60" height="3.08" fill="white"/>
+            <rect y="9.23" width="60" height="3.08" fill="white"/>
+            <rect y="15.38" width="60" height="3.08" fill="white"/>
+            <rect y="21.54" width="60" height="3.08" fill="white"/>
+            <rect y="27.69" width="60" height="3.08" fill="white"/>
+            <rect y="33.85" width="60" height="3.08" fill="white"/>
+            <rect width="24" height="21.54" rx="2" fill="#3C3B6E"/>
+          </svg>
           <span className="text-lg font-bold text-navy-700 sm:text-xl">
             American Flags Foundation
           </span>
