@@ -1,0 +1,13 @@
+<svg viewBox="0 0 200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red outer triangle (A shape) -->
+  <polygon points="100,0 0,220 22,220 100,36 178,220 200,220" fill="#D0202E"/>
+  <!-- Blue inner triangle -->
+  <polygon points="100,60 38,220 58,220 100,96 142,220 162,220" fill="#2B4C9B"/>
+  <!-- Three red stars -->
+  <!-- Center star -->
+  <polygon points="100,175 104.5,186 116,186 107,193 110.5,204 100,197 89.5,204 93,193 84,186 95.5,186" fill="#D0202E"/>
+  <!-- Left star -->
+  <polygon points="78,192 82.5,203 94,203 85,210 88.5,221 78,214 67.5,221 71,210 62,203 73.5,203" fill="#D0202E"/>
+  <!-- Right star -->
+  <polygon points="122,192 126.5,203 138,203 129,210 132.5,221 122,214 111.5,221 115,210 106,203 117.5,203" fill="#D0202E"/>
+</svg>

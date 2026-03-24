@@ -9,8 +9,9 @@ export default function Footer() {
         <div className="grid gap-8 md:grid-cols-3">
           {/* Brand */}
           <div>
-            <h3 className="mb-3 text-lg font-bold text-white">
-              🇺🇸 American Flags Foundation
+            <h3 className="mb-3 flex items-center gap-2 text-lg font-bold text-white">
+              <img src="/logo.svg" alt="Logo" className="h-8 w-auto" />
+              American Flags Foundation
             </h3>
             <p className="text-sm leading-relaxed">
               A 501(c)(3) public charity combatting mental health stigma and
