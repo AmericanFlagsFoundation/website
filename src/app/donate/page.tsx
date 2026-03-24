@@ -6,6 +6,9 @@ export const metadata: Metadata = {
     "Support the American Flags Foundation — your tax-deductible donation helps combat mental health stigma and fund life-saving programs.",
 };
 
+const ZEFFY_URL =
+  "https://www.zeffy.com/en-US/donation-form/aef23625-da53-4e28-bcb4-6ba1c9df701c";
+
 const tiers = [
   {
     amount: "$25",
@@ -50,7 +53,8 @@ export default function DonatePage() {
           </h1>
           <p className="mt-4 text-lg text-gray-300">
             Your tax-deductible donation directly funds programs that combat
-            mental health stigma and save lives.
+            mental health stigma and save lives. 100% of your donation goes to
+            our mission — zero platform fees.
           </p>
         </div>
       </section>
@@ -69,29 +73,45 @@ export default function DonatePage() {
                 {t.label}
               </p>
               <p className="mb-4 flex-1 text-sm text-gray-600">{t.impact}</p>
-              <button
-                disabled
-                className="btn-primary w-full cursor-not-allowed opacity-75"
+              <a
+                href={ZEFFY_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-primary w-full text-center"
               >
-                Coming Soon
-              </button>
+                Donate {t.amount}
+              </a>
             </div>
           ))}
         </div>
 
+        {/* Embedded Zeffy Form */}
+        <div className="mt-16">
+          <h2 className="mb-6 text-center text-2xl font-bold text-navy-700">
+            Donate Securely Online
+          </h2>
+          <div className="mx-auto max-w-2xl overflow-hidden rounded-xl border border-gray-200 shadow-lg">
+            <iframe
+              title="Donation form powered by Zeffy"
+              src={ZEFFY_URL}
+              width="100%"
+              height="700"
+              style={{ border: "none" }}
+              allow="payment"
+            />
+          </div>
+          <p className="mt-3 text-center text-xs text-gray-400">
+            Powered by Zeffy — 100% free for nonprofits. You will receive a
+            tax receipt automatically.
+          </p>
+        </div>
+
         <div className="mt-12 rounded-xl bg-gray-50 p-8 text-center">
           <h2 className="mb-3 text-2xl font-bold text-navy-700">
-            Payment Integration Coming Soon
+            Other Ways to Give
           </h2>
-          <p className="mb-4 text-gray-600">
-            We are currently setting up our secure online donation platform. In
-            the meantime, please reach out to us directly to make a
-            contribution.
-          </p>
           <div className="card mx-auto max-w-md bg-white">
-            <h3 className="mb-2 font-bold text-navy-700">
-              Donate by Mail
-            </h3>
+            <h3 className="mb-2 font-bold text-navy-700">Donate by Mail</h3>
             <address className="text-sm not-italic text-gray-600">
               <p>American Flags Foundation</p>
               <p>18000 Prato Drive</p>
