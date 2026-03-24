@@ -31,8 +31,8 @@ export default function TransparencyPage() {
                 ["EIN", "93-3268747"],
                 ["Tax Status", "501(c)(3) Public Charity"],
                 ["Date Founded", "September 2023"],
-                ["Registered Address", "18000 Prato Drive, Pflugerville, TX 78660"],
-                ["Contact", "Isiaka Abejide"],
+                ["Registered Address", "Pflugerville, Texas"],
+                ["Contact", "Jamie Lewis, Executive Director"],
               ].map(([label, value]) => (
                 <div key={label}>
                   <dt className="text-sm font-semibold text-navy-700">
@@ -114,8 +114,8 @@ export default function TransparencyPage() {
             reach out.
           </p>
           <p className="text-sm text-gray-500">
-            Write to us at: American Flags Foundation, 18000 Prato Drive,
-            Pflugerville, TX 78660
+            Write to us at: American Flags Foundation,
+            Pflugerville, Texas
           </p>
         </div>
       </section>

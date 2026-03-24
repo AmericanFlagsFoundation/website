@@ -26,7 +26,7 @@ export default function AboutPage() {
           <p className="text-gray-600 leading-relaxed">
             The American Flags Foundation was established in September 2023 with
             a bold mission: to shatter the silence surrounding mental health in
-            America. Our founder, Isiaka Abejide, recognized that millions of
+            America. Our founder recognized that millions of
             Americans were suffering in silence — held back not by a lack of
             courage, but by a culture of stigma that treated mental health
             struggles as weakness rather than a natural part of the human
@@ -78,11 +78,11 @@ export default function AboutPage() {
               </div>
               <div>
                 <dt className="font-semibold text-navy-700">Headquarters</dt>
-                <dd className="text-gray-600">18000 Prato Drive, Pflugerville, TX 78660</dd>
+                <dd className="text-gray-600">Pflugerville, Texas</dd>
               </div>
               <div>
                 <dt className="font-semibold text-navy-700">Contact</dt>
-                <dd className="text-gray-600">Isiaka Abejide</dd>
+                <dd className="text-gray-600">Jamie Lewis, Executive Director</dd>
               </div>
             </dl>
           </div>

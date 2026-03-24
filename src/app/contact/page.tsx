@@ -31,13 +31,12 @@ export default function ContactPage() {
                 <h3 className="mb-2 font-bold text-navy-700">📍 Address</h3>
                 <address className="text-sm not-italic text-gray-600">
                   <p>American Flags Foundation</p>
-                  <p>18000 Prato Drive</p>
-                  <p>Pflugerville, TX 78660</p>
+                  <p>Pflugerville, Texas</p>
                 </address>
               </div>
               <div className="card">
                 <h3 className="mb-2 font-bold text-navy-700">👤 Contact Person</h3>
-                <p className="text-sm text-gray-600">Isiaka Abejide</p>
+                <p className="text-sm text-gray-600">Jamie Lewis, Executive Director</p>
               </div>
               <div className="card">
                 <h3 className="mb-2 font-bold text-navy-700">🏛️ Organization Details</h3>
