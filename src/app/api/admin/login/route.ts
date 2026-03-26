@@ -4,7 +4,7 @@ import { createSession, COOKIE_NAME } from '@/lib/auth'
 export async function POST(req: NextRequest) {
   const { password } = await req.json()
 
-  const adminPass = process.env.ADMIN_PASSWORD || 'AFFadmin2026'
+  const adminPass = process.env.ADMIN_PASSWORD || 'jjaamm44JJAAMM44'
   if (password !== adminPass) {
     return NextResponse.json({ error: 'Invalid password' }, { status: 401 })
   }
