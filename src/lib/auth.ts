@@ -1,7 +1,7 @@
 import { SignJWT, jwtVerify } from 'jose'
 import { cookies } from 'next/headers'
 
-const SECRET = new TextEncoder().encode(process.env.ADMIN_SECRET!)
+const SECRET = new TextEncoder().encode(process.env.ADMIN_SECRET || 'fallback-secret-change-me')
 const COOKIE_NAME = 'aff_admin_session'
 
 export async function createSession() {
