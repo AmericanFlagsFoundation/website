@@ -3,9 +3,9 @@ import { createSession, COOKIE_NAME } from '@/lib/auth-edge'
 
 export async function POST(req: NextRequest) {
   const { password } = await req.json()
-  const adminPass = process.env.ADMIN_PASSWORD || 'jjaamm44JJAAMM44'
+  const adminPass = (process.env.ADMIN_PASSWORD || 'jjaamm44JJAAMM44').trim()
 
-  if (password !== adminPass) {
+  if (password.trim() !== adminPass) {
     return NextResponse.json({ error: 'Invalid password' }, { status: 401 })
   }
 
