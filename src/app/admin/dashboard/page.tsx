@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 type Grant = {
   id: string;
@@ -140,12 +141,20 @@ export default function Dashboard() {
               <p className="text-xs text-gray-500">American Flags Foundation</p>
             </div>
           </div>
-          <button
-            onClick={handleLogout}
-            className="rounded-lg border border-gray-200 px-3 py-1.5 text-xs text-gray-600 hover:bg-gray-50"
-          >
-            Sign Out
-          </button>
+          <div className="flex items-center gap-2">
+            <Link
+              href="/admin/ai"
+              className="rounded-lg bg-navy-700 px-3 py-1.5 text-xs font-semibold text-white hover:bg-navy-800"
+            >
+              iiV AI ✦
+            </Link>
+            <button
+              onClick={handleLogout}
+              className="rounded-lg border border-gray-200 px-3 py-1.5 text-xs text-gray-600 hover:bg-gray-50"
+            >
+              Sign Out
+            </button>
+          </div>
         </div>
       </header>
 
