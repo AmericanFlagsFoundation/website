@@ -52,3 +52,9 @@ Here's to year two.
 ---
 
 *Learn more about our work and how to get involved at americanflagsfoundation.org.*
+
+---
+
+**Related Reading:**
+- [Why We Started the American Flags Foundation](/blog/2023-09-20-why-we-started-aff)
+- [Two Years of AFF: What We've Learned](/blog/2025-09-08-two-years-of-aff)

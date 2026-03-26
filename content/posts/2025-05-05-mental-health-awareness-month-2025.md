@@ -44,3 +44,8 @@ We're grateful for every person who has been part of this community. And we're c
 ---
 
 *Crisis support is available 24/7. Call or text 988. Text HOME to 741741 for the Crisis Text Line.*
+
+---
+
+**Related Reading:**
+- [Mental Health Awareness Month: What It Means and Why It Matters](/blog/2024-05-01-mental-health-awareness-month)

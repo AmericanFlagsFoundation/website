@@ -56,3 +56,8 @@ If you're reading this and you're struggling — you're not alone, and it's not 
 ---
 
 *988 Suicide & Crisis Lifeline: Call or text 988. For youth: Crisis Text Line — text HOME to 741741.*
+
+---
+
+**Related Reading:**
+- [Back to School 2025: A Parent's Guide to Teen Mental Health](/blog/2025-08-11-back-to-school-2025-teen-mental-health)

@@ -49,3 +49,9 @@ Stigma changes through contact, education, and story.
 This is the work of the American Flags Foundation. Not quick. Not easy. But necessary.
 
 And it starts with conversations like this one.
+
+---
+
+**Related Reading:**
+- [The Hidden Cost of Mental Health Stigma in America](/blog/2023-10-10-the-hidden-cost-of-mental-health-stigma)
+- [Self-Stigma: When the Harshest Critic Is Yourself](/blog/2025-03-03-self-stigma)

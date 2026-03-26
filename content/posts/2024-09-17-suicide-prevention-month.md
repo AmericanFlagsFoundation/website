@@ -55,3 +55,8 @@ Suicide prevention isn't only for September. It's for every day that someone in 
 ---
 
 *988 Suicide & Crisis Lifeline: Call or text 988, available 24/7. Veterans Crisis Line: 988, then press 1.*
+
+---
+
+**Related Reading:**
+- [Suicide Prevention: Moving From Awareness to Action](/blog/2025-09-22-suicide-prevention-awareness-to-action)

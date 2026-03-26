@@ -50,3 +50,8 @@ Because the goal isn't just awareness. The goal is lives saved.
 If you or someone you know is in crisis, call or text **988**.
 
 You are not alone. And you don't have to figure this out by yourself.
+
+---
+
+**Related Reading:**
+- [Suicide Prevention Month: What You Need to Know](/blog/2024-09-17-suicide-prevention-month)

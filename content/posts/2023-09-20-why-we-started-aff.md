@@ -48,3 +48,9 @@ You're why we started. And you're who we're here for.
 ---
 
 *If you or someone you know is in crisis, call or text 988 to reach the Suicide & Crisis Lifeline, available 24/7.*
+
+---
+
+**Related Reading:**
+- [One Year of AFF: Reflections on Our First Year](/blog/2024-09-10-one-year-of-aff)
+- [Two Years of AFF: What We've Learned](/blog/2025-09-08-two-years-of-aff)

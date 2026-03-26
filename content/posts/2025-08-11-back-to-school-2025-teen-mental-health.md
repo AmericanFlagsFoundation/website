@@ -74,3 +74,8 @@ This fall, the most important thing you can send your teenager to school with is
 ---
 
 *American Flags Foundation is committed to supporting youth and family mental health. Visit americanflagsfoundation.org.*
+
+---
+
+**Related Reading:**
+- [Back to School: Supporting Student Mental Health](/blog/2024-08-06-back-to-school-student-mental-health)

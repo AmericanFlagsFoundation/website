@@ -45,3 +45,9 @@ At the American Flags Foundation, supporting veteran mental health is central to
 ---
 
 *Veterans Crisis Line: Call or text 988, then press 1. Chat at VeteransCrisisLine.net.*
+
+---
+
+**Related Reading:**
+- [Veterans Day 2024: The Mental Health Crisis We Can't Ignore](/blog/2024-11-11-veterans-day-2024)
+- [Veterans Day 2025: Honoring Service, Addressing Struggle](/blog/2025-11-10-veterans-day-2025)

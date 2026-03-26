@@ -47,3 +47,9 @@ Here's to year three.
 ---
 
 *Learn more about AFF's programs and how to get involved at americanflagsfoundation.org.*
+
+---
+
+**Related Reading:**
+- [Why We Started the American Flags Foundation](/blog/2023-09-20-why-we-started-aff)
+- [One Year of AFF: Reflections on Our First Year](/blog/2024-09-10-one-year-of-aff)

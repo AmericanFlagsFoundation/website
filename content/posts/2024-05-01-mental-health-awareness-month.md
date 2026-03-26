@@ -54,3 +54,8 @@ May matters because we choose to make it matter. This is our month to commit, ag
 ---
 
 *The American Flags Foundation is proud to support Mental Health Awareness Month. Call or text 988 if you need support — anytime, any month.*
+
+---
+
+**Related Reading:**
+- [Mental Health Awareness Month 2025: Our Commitment to Change](/blog/2025-05-05-mental-health-awareness-month-2025)
