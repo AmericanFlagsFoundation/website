@@ -1,26 +1,7 @@
-import { SignJWT, jwtVerify } from 'jose'
 import { cookies } from 'next/headers'
+import { createSession, verifySession, COOKIE_NAME } from './auth-edge'
 
-const SECRET = new TextEncoder().encode(process.env.ADMIN_SECRET || 'fallback-secret-change-me')
-const COOKIE_NAME = 'aff_admin_session'
-
-export async function createSession() {
-  const token = await new SignJWT({ admin: true })
-    .setProtectedHeader({ alg: 'HS256' })
-    .setIssuedAt()
-    .setExpirationTime('24h')
-    .sign(SECRET)
-  return token
-}
-
-export async function verifySession(token: string) {
-  try {
-    await jwtVerify(token, SECRET)
-    return true
-  } catch {
-    return false
-  }
-}
+export { createSession, verifySession, COOKIE_NAME }
 
 export async function getSession() {
   const cookieStore = await cookies()
@@ -28,5 +9,3 @@ export async function getSession() {
   if (!token) return false
   return verifySession(token)
 }
-
-export { COOKIE_NAME }

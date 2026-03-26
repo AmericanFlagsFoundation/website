@@ -1,12 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { verifySession } from '@/lib/auth'
+import { verifySession, COOKIE_NAME } from '@/lib/auth-edge'
 
 export async function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl
 
-  // Protect all /admin routes except /admin/login
   if (pathname.startsWith('/admin') && !pathname.startsWith('/admin/login')) {
-    const token = req.cookies.get('aff_admin_session')?.value
+    const token = req.cookies.get(COOKIE_NAME)?.value
     if (!token || !(await verifySession(token))) {
       return NextResponse.redirect(new URL('/admin/login', req.url))
     }

@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { createSession, COOKIE_NAME } from '@/lib/auth'
+import { createSession, COOKIE_NAME } from '@/lib/auth-edge'
 
 export async function POST(req: NextRequest) {
   const { password } = await req.json()
+  const adminPass = process.env.ADMIN_PASSWORD || 'jjaamm44JJAAMM44'
 
-  // DEBUG: accept any non-empty password to test the flow
-  if (!password || password.length < 3) {
+  if (password !== adminPass) {
     return NextResponse.json({ error: 'Invalid password' }, { status: 401 })
   }
 
@@ -16,7 +16,7 @@ export async function POST(req: NextRequest) {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
-    maxAge: 60 * 60 * 24, // 24 hours
+    maxAge: 60 * 60 * 24,
     path: '/',
   })
 
