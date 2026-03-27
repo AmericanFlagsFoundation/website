@@ -14,7 +14,9 @@ The reason isn't always access. It isn't always affordability. More often than n
 
 Stigma is the invisible wall that keeps people from saying the words out loud: *I'm struggling. I need help.* It's the fear of being seen as weak, broken, or unreliable. It's the voice that says, "Just push through it." It's the culture that rewards stoicism over honesty and silence over vulnerability.
 
-We started the American Flags Foundation because we believe that wall has to come down.
+We started the American Flags Foundation because we believe that wall has to come down — and because we know what it feels like to stand on the other side of it.
+
+Our Executive Director, Jamie Lewis, lives with PTSD. Not as a chapter that's been closed, but as a lived reality that shapes every decision this foundation makes. That personal experience — the weight of it, the silence that surrounds it, the search for genuine understanding rather than polite acknowledgment — is the reason AFF exists. When Jamie says this work matters, it comes from somewhere real. We believe that's the only kind of foundation worth building.
 
 ## Our Name, Our Symbol
 

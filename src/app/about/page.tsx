@@ -26,18 +26,39 @@ export default function AboutPage() {
           <p className="text-gray-600 leading-relaxed">
             The American Flags Foundation was established in September 2023 with
             a bold mission: to shatter the silence surrounding mental health in
-            America. Our founder recognized that millions of
-            Americans were suffering in silence — held back not by a lack of
-            courage, but by a culture of stigma that treated mental health
-            struggles as weakness rather than a natural part of the human
-            experience.
+            America. This work isn&apos;t abstract for us — it&apos;s personal.
           </p>
 
           <p className="mt-4 text-gray-600 leading-relaxed">
-            From our base in Austin, Texas, we set out to build a
-            foundation — literally and figuratively — that would embrace empathy,
-            cultivate optimism, and break down the barriers that keep people from
-            getting the help they need.
+            Our Executive Director, Jamie Lewis, lives with PTSD. That experience — navigating the
+            weight of it, the silence around it, the moments of wondering if anyone else truly
+            understands — is exactly what drives this foundation. Jamie knows firsthand what it
+            means to struggle and to search for something that feels like real understanding, not
+            just clinical acknowledgment. That empathy is baked into everything AFF does.
+          </p>
+
+          <p className="mt-4 text-gray-600 leading-relaxed">
+            Millions of Americans are suffering in silence — held back not by a lack of courage,
+            but by a culture of stigma that treats mental health struggles as weakness rather than
+            a natural part of the human experience. We started AFF to change that culture, one
+            conversation at a time. From our base in Austin, Texas, we build programs, partnerships,
+            and community around a simple conviction: no one should have to carry this alone.
+          </p>
+
+          <h2 className="section-heading mt-12">Our Name &amp; Symbol</h2>
+          <p className="text-gray-600 leading-relaxed">
+            Our symbol is the letter <em>A</em> — rendered in red, white, and blue, crowned with
+            three stars. The <em>A</em> stands for <em>America</em>, for <em>Awareness</em>, and
+            for <em>Action</em>. It carries the colors of this nation as a reminder that caring
+            for each other is a fundamentally American value — one that crosses every background,
+            every community, every zip code.
+          </p>
+          <p className="mt-4 text-gray-600 leading-relaxed">
+            The three stars represent the Trinity — God the Father, God the Son, and God the Holy
+            Ghost. They sit at the center of our symbol because we believe, at the foundation of
+            everything we do, that God can heal all. Not as a statement of exclusion, but as a
+            statement of hope. Whatever someone has carried, whatever they&apos;ve survived — healing
+            is possible. That conviction is what drives us.
           </p>
 
           <h2 className="section-heading mt-12">Our Values</h2>
