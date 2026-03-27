@@ -18,9 +18,11 @@ We started the American Flags Foundation because we believe that wall has to com
 
 ## Our Name, Our Symbol
 
-The American flag represents something powerful — unity, resilience, the enduring promise that this nation stands for something worth fighting for. But flags also fly at half-staff. They honor loss. They acknowledge grief. They say: *what happened here mattered.*
+Our symbol is the letter *A* — rendered in red, white, and blue, crowned with three stars.
 
-We chose the flag as our symbol because mental health is a patriotic issue. The men and women who serve in our military come home carrying invisible wounds. The workers, parents, students, and neighbors who power this country are quietly struggling. Our name is a reminder that caring for each other — truly caring — is a fundamentally American value.
+The *A* stands for *America*, for *Awareness*, and for *Action*. It carries the colors of this nation not as a political statement, but as a patriotic one: caring for each other, truly caring, is a fundamentally American value. Mental health doesn't care about party lines. It touches every family, every community, every zip code in this country. The *A* is a reminder that this work belongs to all of us.
+
+The three stars carry a deeper meaning. They represent the Trinity — God the Father, God the Son, and God the Holy Ghost. We placed them at the center of our symbol because we believe, at the foundation of everything we do, that God can heal all. Not as a statement of exclusion, but as a statement of hope. Whatever someone's background, whatever they've carried, whatever they've survived — healing is possible. That conviction is what drives us.
 
 ## Our Six Pillars
 
